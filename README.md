@@ -1,7 +1,4 @@
-# Goat-Hud
-Screenshots: https://imgur.com/a/T584p
-
-How to Download and Install: https://imgur.com/a/w3Ah6
+Got hud brah ?????
 
 Original Damage Color:
 
