@@ -518,7 +518,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"r148"
+		"xpos"			"r128"
 		"ypos"			"110"
 		"zpos"			"11"
 		"wide"			"150"
@@ -636,7 +636,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor_override"	"255 255 255 255"
+			"bgcolor_override"	"0 0 0 125"
 		}
 	}
 	"Background"
