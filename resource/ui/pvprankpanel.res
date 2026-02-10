@@ -394,7 +394,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 30"
+						"fgcolor_override"	"50 100 75 30"
 						"bgcolor_override"	"0 0 0 0"
 					}
 
@@ -409,7 +409,8 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"100 200 125 125"
+						"bgcolor_override"	"150 150 150 255"
 					}
 
 					"Frame"
