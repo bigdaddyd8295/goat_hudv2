@@ -11,7 +11,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 		
 		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
 		"blog_url"		"http://www.teamfortress.com/"
@@ -740,8 +740,6 @@
 		"tall"			"50"
 		"visible"		"0"
 		"PaintBackgroundType"	"1"
-		"border"		"FluxsBorderTab"
-		"bgcolor_override"	"35 35 35 255"
 		
 		"TipSubLabel"
 		{
@@ -757,8 +755,8 @@
 			"tall"			"50"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor_override"	"White"
 			"wrap"			"1"
 		}
@@ -777,8 +775,8 @@
 			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor_override"	"White"
 			"auto_wide_tocontents" "1"
 		}
@@ -2323,8 +2321,8 @@
 			"xpos"			"9999"
 			"ypos"			"9999"
 			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
+			"wide"			"10"
+			"tall"			"10"
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
@@ -2494,4 +2492,11 @@
 			"image"			"glyph_quit"
 		}				
 	}
+
+	"DashboardDimmer"
+	{
+		"wide" "9999"
+		"tall" "9999"
+	}
+
 }

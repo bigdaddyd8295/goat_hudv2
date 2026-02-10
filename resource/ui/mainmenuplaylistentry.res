@@ -25,14 +25,14 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"InnerShadowBorderThin"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}
 
-	"BGColor" // DO NOT TOUCH
+	"BGColor" // DO NOT TOUCH (okay pookie)
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGColor"
@@ -86,11 +86,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ModeButton"
-		"xpos"			"rs1-6"
-		"ypos"			"3"
+		"xpos"			"rs1-0"
+		"ypos"			"0"
 		"zpos"			"6"
-		"wide"			"122"
-		"tall"			"40"
+		"wide"			"130"
+		"tall"			"47"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%button_token%"
@@ -106,8 +106,8 @@
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"2"
 
-		//"border_default"	"MainMenuMiniButtonDefault"
-		//"border_armed"		"MainMenuMiniButtonArmed"
+		// "border_default"	"MainMenuMiniButtonDefault"
+		// "border_armed"		"MainMenuMiniButtonArmed"
 		"paintbackground"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"

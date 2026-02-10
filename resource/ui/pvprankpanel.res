@@ -394,7 +394,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"20 20 20 30"
 						"bgcolor_override"	"0 0 0 0"
 					}
 
@@ -421,6 +421,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"zpos"			"5"
+						"visible"		"0"
 						"proportionaltoparent"	"1"
 						"border"		"InnerShadowBorderThin"
 					}

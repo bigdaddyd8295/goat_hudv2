@@ -36,6 +36,8 @@ Scheme
 		"GMediumBG"	"55 55 55 125"
 		"GMediumerBG" "79 79 79 125"
 		"GWhiteBG"	"225 225 225 225"
+		"GBG"		"130 130 130 125"
+		"GPanelBG"		"130 130 130 255"
 		
 		"DamageColor"		"255 255 255 255"
 		"HealColor"			"30 130 30 255"
@@ -247,6 +249,7 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
