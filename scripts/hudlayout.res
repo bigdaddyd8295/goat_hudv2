@@ -89,10 +89,10 @@
 	HudBowCharge
 	{
 		"fieldName"     "HudBowCharge"
-        "visible"       "1"
-        "enabled"       "1"
-        "xpos"          "c-125"
-        "ypos"          "c144"
+        "visible"       "0"
+        "enabled"       "0"
+        "xpos"          "9999"
+        "ypos"          "9999"
         "zpos"          "1"         // draw in front of ammo
         "wide"          "200"
         "tall"          "6"
