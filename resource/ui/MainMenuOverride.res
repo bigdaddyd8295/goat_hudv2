@@ -2492,11 +2492,4 @@
 			"image"			"glyph_quit"
 		}				
 	}
-
-	"DashboardDimmer"
-	{
-		"wide" "9999"
-		"tall" "9999"
-	}
-
 }
