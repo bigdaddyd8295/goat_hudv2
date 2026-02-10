@@ -1,9 +1,3 @@
-Got hud brah ?????
+Goat Hud V2 or SNCT Hud
 
-Original Damage Color:
-
-hud_combattext_red 255
-
-hud_combattext_green 255
-
-hud_combattext_blue 255
+goat hud but better and more minimalist exactly how the original probably envisioned... I think
