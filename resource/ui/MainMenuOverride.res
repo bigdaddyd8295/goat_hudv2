@@ -414,7 +414,25 @@
 		"pin_corner_to_sibling" "PIN_CENTER_LEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
-
+	"Bar9"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Bar9"
+		"xpos"			"20"
+		"ypos"			"28"
+		"zpos"			"100"
+		"wide"			"853"
+		"tall"			"24"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 0 0 125"		
+		
+		"pin_to_sibling"	"MainMenuBG"
+		"pin_corner_to_sibling" "PIN_CENTER_LEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
+	}
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"

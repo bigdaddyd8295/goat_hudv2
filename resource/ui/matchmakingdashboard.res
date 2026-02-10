@@ -644,7 +644,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"DisconnectButton"
-			"xpos"			"rs1"
+			"xpos"			"rs0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"110"
@@ -716,7 +716,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"HudFontSmallBold"
+			"font"			"Roboto16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
