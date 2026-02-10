@@ -433,6 +433,13 @@
 		"pin_corner_to_sibling" "PIN_CENTER_LEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
+		"DashboardDimmer"
+	{
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"tall" 			"482"
+		"wide" 			"856"
+	}
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
