@@ -31,17 +31,17 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
-			"xpos"			"0"
+			"xpos"			"120"
 			"ypos"			"0"
-			"zpos"			"-1"
-			"wide"			"f0"
+			"zpos"			"1"
+			"wide"			"130"
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
 		
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 255"
+			"bgcolor_override"	"130 130 130 125"
 		}
 
 		"BGImage"
@@ -177,8 +177,8 @@
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
@@ -230,8 +230,8 @@
 			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 
 			"wrap"			"1"
 			"fgcolor_override" "Black"
@@ -276,6 +276,6 @@
 
 		"skip_autoresize"	"1"
 
-		"bgcolor_override"	"0 0 0 150"
+		"bgcolor_override"	"0 0 0 125"
 	}
 }
