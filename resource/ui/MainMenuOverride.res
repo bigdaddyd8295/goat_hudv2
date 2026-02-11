@@ -1352,15 +1352,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
-		"xpos"			"r215"
-		"ypos"			"400"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
 		"zpos"			"17"
 		"wide"			"210"
 		"tall"			"80"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
-		"bgcolor_override"		"35 35 35 255"
+		"bgcolor_override"		"GBG"
 		"border"		"FluxsBorderTab"
 		
 		"Notifications_CloseButton"
@@ -1391,12 +1391,13 @@
 
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" 	"46 43 42 255"
+			"armedFgColor_override" 	"Black"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

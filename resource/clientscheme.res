@@ -58,7 +58,6 @@ Scheme
 		"CrosshairFog"		"255 255 255 255"
 	
 	
-	
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -85,7 +84,7 @@ Scheme
 		"PartyMember5"	"255 118 108 255"
 		"PartyMember6"	"255 133 255 255"
 		
-		"White"				"235 235 235 255"
+		"White"				"GText"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"
@@ -112,7 +111,7 @@ Scheme
 		"HudBlack"			"65 65 65 255"
 		"ProgressBarBlue"	"91 122 142 255"
 		
-		"CreditsGreen"		"94 150 49 255"
+		"CreditsGreen"		"100 200 125 255" 
 		
 		"Gray"				"178 178 178 255"
 
@@ -1277,7 +1276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Roboto Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1300,7 +1299,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Roboto Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -6270,8 +6269,8 @@ Scheme
 			"image"					"alert_rect"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
-			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"4"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		NotificationHighPriority
 		{
@@ -6281,8 +6280,8 @@ Scheme
 			"image"					"button_holder_central"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
-			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"4"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"
 		}
 		MainMenuButtonDepressed
 		{
