@@ -93,7 +93,7 @@ Scheme
 		"BrightYellow"		"251 235 0 255"
 		//"Black"				"0 0 0 255"
 		//Changed black to a NTSC safe color
-		"GreenSolid"		 "76 107 34 255"
+		"GreenSolid"		 "100 200 125 150"
 		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
@@ -111,7 +111,7 @@ Scheme
 		"HudBlack"			"65 65 65 255"
 		"ProgressBarBlue"	"91 122 142 255"
 		
-		"CreditsGreen"		"100 200 125 255" 
+		"CreditsGreen"		"100 200 125 125"
 		
 		"Gray"				"178 178 178 255"
 
@@ -1216,7 +1216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Roboto Regular"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1322,7 +1322,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Roboto Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3108,7 +3108,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Roboto Regular"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
