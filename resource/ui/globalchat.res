@@ -26,7 +26,7 @@
 
 		"collapsed_height"		"0"
 		"expanded_height"		"200"
-		"resize_time"	"0.3"
+		"resize_time"	"0"
 		"invalidate_parent_on_resize"	"0"
 	}
 
@@ -52,7 +52,7 @@
 		"ScrollBar"
 		{
 			"FieldName"		"ScrollBar"
-			"xpos"			"rs1-1"
+			"xpos"			"rs1+0"
 			"ypos"			"0"
 			"tall"			"f0"
 			"wide"			"5" // This gets slammed from client schme.  GG.
@@ -62,7 +62,7 @@
 
 			"Slider"
 			{
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"GBG"
 			}
 		
 			"UpButton"
@@ -85,10 +85,10 @@
 	{
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
-		"xpos"					"1"
-		"ypos"					"rs1+19"
+		"xpos"					"0"
+		"ypos"					"rs1+17"
 		"zpos"			"1"
-		"wide"			"f2"
+		"wide"			"f0"
 		"tall"			"13"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -115,7 +115,7 @@
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 0"
 		"RoundedCorners"	"0"
-		"border"		"QuickplayBorder"
+		"border"		""
 
 		"keyboardinputenabled"	"0"
 		"mouseinputenabled"		"0"
