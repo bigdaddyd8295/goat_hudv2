@@ -683,9 +683,9 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"KillStreakLeaderLabel"
-		"font"			"ScoreboardVerySmall"
-		"xpos"			"99999"
-		"ypos"			"99999"
+		"font"			"Roboto10"
+		"xpos"			"430"
+		"ypos"			"75"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"20"
@@ -753,9 +753,10 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"KillStreakPlayer1Name"
-		"xpos"			"99999"	[$WIN32]
-		"xpos"			"99999"	[$X360]
-		"ypos"			"99999"
+		"font"			"Roboto10"
+		"xpos"			"504"	[$WIN32]
+		"xpos"			"10"	[$X360]
+		"ypos"			"75"
 		"zpos"			"3"
 		"wide"			"128"	[$WIN32]
 		"wide"			"150"	[$X360]
@@ -773,8 +774,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"KillStreakPlayer1Class"
-		"xpos"			"99999"
-		"ypos"			"99999"
+		"font"			"Roboto10"
+		"xpos"			"588"
+		"ypos"			"75"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"20"
@@ -791,8 +793,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"KillStreakPlayer1Score"
-		"xpos"			"99999"
-		"ypos"			"99999"
+		"font"			"Roboto10"
+		"xpos"			"600"
+		"ypos"			"75"
 		"zpos"			"3"
 		"wide"			"30"
 		"tall"			"20"
